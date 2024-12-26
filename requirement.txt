@@ -1,0 +1,5 @@
+gym
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+stable-baselines3[extra] protobuf==3.20.*
+mss pydirectinput pytesseract
+shimmy
